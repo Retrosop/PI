@@ -1,0 +1,7 @@
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\anyau\AppData\Local\C#\TemplateMethod\obj\Debug\TemplateMethod.pdb
