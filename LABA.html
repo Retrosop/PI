@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Заказ Межгороднего Такси</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ background-color: #f4f4f4;
+ }
+ header {
+ background: #35424a;
+ color: #ffffff;
+ padding: 10px 0;
+ text-align: center;
+ }
+ nav {
+ margin: 20px 0;
+ }
+ nav a {
+ margin: 0 15px;
+ text-decoration: none;
+ color: #35424a;
+ }
+ main {
+ padding: 20px;
+ }
+ form {
+ background: #ffffff;
+ padding: 20px;
+ border-radius: 5px;
+ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ }
+ input, select, button {
+ width: 100%;
+ padding: 10px;
+ margin: 10px 0;
+ border: 1px solid #ccc;
+ border-radius: 5px;
+ }
+ footer {
+ text-align: center;
+ padding: 10px 0;
+ background: #35424a;
+ color: #ffffff;
+ position: relative;
+ bottom: 0;
+ width: 100%;
+ }
+ section {
+ margin-top: 40px;
+ }
+ h2 {
+ color: #35424a;
+ }
+ </style>
+</head>
+<body>
+
+<header>
+ <h1>Заказ Межгороднего Такси</h1>
+</header>
+
+<nav>
+ <a href="#order">Заказ такси</a>
+ <a href="#routes">Маршруты</a>
+ <a href="#info">Информация</a>
+ <a href="#contact">Контакты</a>
+</nav>
+
+<main>
+ <section id="order">
+ <h2>Форма заказа</h2>
+ <form action="#" method="post">
+ <label for="name">Имя:</label>
+ <input type="text" id="name" name="name" required>
+
+ <label for="phone">Телефон:</label>
+ <input type="tel" id="phone" name="phone" required>
+
+ <label for="from">Откуда:</label>
+ <input type="text" id="from" name="from" required>
+
+ <label for="to">Куда:</label>
+ <input type="text" id="to" name="to" required>
+
+ <label for="date">Дата поездки:</label>
+ <input type="date" id="date" name="date" required>
+
+ <label for="time">Время поездки:</label>
+ <input type="time" id="time" name="time" required>
+
+ <button type="submit">Заказать</button>
+ </form>
+ </section>
+
+ <section id="routes">
+ <h2>Доступные маршруты</h2>
+ <ul>
+ <li>Москва - Санкт-Петербург</li>
+ <li>Москва - Казань</li>
+ <li>Санкт-Петербург - Нижний Новгород</li>
+ <li>Екатеринбург - Челябинск</li>
+ <li>Казань - Уфа</li>
+ </ul>
+ </section>
+
+ <section id="info">
+ <h2>Информация о системе</h2>
+
+ <h3>Цели системы</h3>
+ <p>Основная цель системы — предоставить пользователям удобный способ заказа межгороднего такси с минимальными усилиями. Мы стремимся упростить процесс планирования поездок и сделать его более доступным и прозрачным.</p>
+
+ <h3>Функционал системы</h3>
+ <ul>
+ <li>Быстрый и простой заказ такси через веб-форму.</li>
+ <li>Выбор маршрута и времени поездки.</li>
+ <li>Поддержка различных способов оплаты.</li>
+ <li>Отслеживание статуса заказа в реальном времени.</li>
+ <li>Контактная информация службы поддержки.</li>
+ </ul>
+
+ <h3>Преимущества использования системы</h3>
+ <ul>
+ <li>Удобство: Заказ такси можно сделать в любое время и в любом месте.</li>
+ <li>Прозрачность: Четкая информация о тарифах и маршрутах.</li>
+ <li>Экономия времени:
