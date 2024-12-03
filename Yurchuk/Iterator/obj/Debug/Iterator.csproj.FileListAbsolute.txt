@@ -1,0 +1,7 @@
+C:\Users\anyau\AppData\Local\C#\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\anyau\AppData\Local\C#\Iterator\bin\Debug\Iterator.exe
+C:\Users\anyau\AppData\Local\C#\Iterator\bin\Debug\Iterator.pdb
+C:\Users\anyau\AppData\Local\C#\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\anyau\AppData\Local\C#\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\anyau\AppData\Local\C#\Iterator\obj\Debug\Iterator.exe
+C:\Users\anyau\AppData\Local\C#\Iterator\obj\Debug\Iterator.pdb
