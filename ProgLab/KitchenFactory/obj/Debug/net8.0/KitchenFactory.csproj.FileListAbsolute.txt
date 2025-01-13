@@ -1,0 +1,14 @@
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.AssemblyInfoInputs.cache
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.AssemblyInfo.cs
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.csproj.CoreCompileInputs.cache
+D:\ProgLab\KitchenFactory\bin\Debug\net8.0\KitchenFactory.exe
+D:\ProgLab\KitchenFactory\bin\Debug\net8.0\KitchenFactory.deps.json
+D:\ProgLab\KitchenFactory\bin\Debug\net8.0\KitchenFactory.runtimeconfig.json
+D:\ProgLab\KitchenFactory\bin\Debug\net8.0\KitchenFactory.dll
+D:\ProgLab\KitchenFactory\bin\Debug\net8.0\KitchenFactory.pdb
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.dll
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\refint\KitchenFactory.dll
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.pdb
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\KitchenFactory.genruntimeconfig.cache
+D:\ProgLab\KitchenFactory\obj\Debug\net8.0\ref\KitchenFactory.dll

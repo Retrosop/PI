@@ -1,0 +1,14 @@
+D:\ProgLab\ObserverPattern\taskmanagerapp\bin\Debug\net8.0\TaskManagerApp.exe
+D:\ProgLab\ObserverPattern\taskmanagerapp\bin\Debug\net8.0\TaskManagerApp.deps.json
+D:\ProgLab\ObserverPattern\taskmanagerapp\bin\Debug\net8.0\TaskManagerApp.runtimeconfig.json
+D:\ProgLab\ObserverPattern\taskmanagerapp\bin\Debug\net8.0\TaskManagerApp.dll
+D:\ProgLab\ObserverPattern\taskmanagerapp\bin\Debug\net8.0\TaskManagerApp.pdb
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfoInputs.cache
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfo.cs
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.dll
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\refint\TaskManagerApp.dll
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.pdb
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\TaskManagerApp.genruntimeconfig.cache
+D:\ProgLab\ObserverPattern\taskmanagerapp\obj\Debug\net8.0\ref\TaskManagerApp.dll
