@@ -1,0 +1,39 @@
+class Singleton:
+    _instance = None
+
+    def __new__(cls, *args, **kwargs):
+        # Если экземпляр еще не создан, создаем его
+        if cls._instance is None:
+            cls._instance = super().__new__(cls)
+            cls._initialized = False
+        return cls._instance
+
+    def __init__(self, value=None):
+        # Проверка, чтобы `__init__` вызывался только один раз
+        if not self._initialized:
+            self.value = value
+            self._initialized = True
+
+    @classmethod
+    def get_instance(cls):
+        # Проверка на null (None в Python)
+        if cls._instance is None:
+            raise Exception("Экземпляр Singleton еще не создан. Используйте Singleton() для создания.")
+        return cls._instance
+
+# Пример использования
+if __name__ == "__main__":
+    # Создание экземпляра
+    singleton1 = Singleton("Первый экземпляр")
+    print(f"singleton1 value: {singleton1.value}")
+
+    # Получение существующего экземпляра
+    singleton2 = Singleton.get_instance()
+    print(f"singleton2 value: {singleton2.value}")
+
+    # Попытка изменения значения через новый вызов конструктора
+    singleton3 = Singleton("Новое значение")
+    print(f"singleton3 value: {singleton3.value}")  # Значение останется прежним
+
+    # Проверка равенства всех экземпляров
+    print(f"Все ли экземпляры одинаковы? {singleton1 is singleton2 is singleton3}")
