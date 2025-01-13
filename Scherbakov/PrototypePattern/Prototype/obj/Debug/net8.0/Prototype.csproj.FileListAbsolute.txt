@@ -1,0 +1,14 @@
+D:\ProgLab\PrototypePattern\Prototype\bin\Debug\net8.0\Prototype.exe
+D:\ProgLab\PrototypePattern\Prototype\bin\Debug\net8.0\Prototype.deps.json
+D:\ProgLab\PrototypePattern\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+D:\ProgLab\PrototypePattern\Prototype\bin\Debug\net8.0\Prototype.dll
+D:\ProgLab\PrototypePattern\Prototype\bin\Debug\net8.0\Prototype.pdb
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.dll
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.pdb
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+D:\ProgLab\PrototypePattern\Prototype\obj\Debug\net8.0\ref\Prototype.dll

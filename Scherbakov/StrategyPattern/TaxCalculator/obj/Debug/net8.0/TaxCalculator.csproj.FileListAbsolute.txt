@@ -1,0 +1,14 @@
+D:\ProgLab\StrategyPattern\taxcalculator\bin\Debug\net8.0\TaxCalculator.exe
+D:\ProgLab\StrategyPattern\taxcalculator\bin\Debug\net8.0\TaxCalculator.deps.json
+D:\ProgLab\StrategyPattern\taxcalculator\bin\Debug\net8.0\TaxCalculator.runtimeconfig.json
+D:\ProgLab\StrategyPattern\taxcalculator\bin\Debug\net8.0\TaxCalculator.dll
+D:\ProgLab\StrategyPattern\taxcalculator\bin\Debug\net8.0\TaxCalculator.pdb
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.AssemblyInfoInputs.cache
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.AssemblyInfo.cs
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.dll
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\refint\TaxCalculator.dll
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.pdb
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\TaxCalculator.genruntimeconfig.cache
+D:\ProgLab\StrategyPattern\taxcalculator\obj\Debug\net8.0\ref\TaxCalculator.dll

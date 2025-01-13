@@ -1,0 +1,14 @@
+D:\ProgLab\CommandPattern\carcontrolapp\bin\Debug\net8.0\CarControlApp.exe
+D:\ProgLab\CommandPattern\carcontrolapp\bin\Debug\net8.0\CarControlApp.deps.json
+D:\ProgLab\CommandPattern\carcontrolapp\bin\Debug\net8.0\CarControlApp.runtimeconfig.json
+D:\ProgLab\CommandPattern\carcontrolapp\bin\Debug\net8.0\CarControlApp.dll
+D:\ProgLab\CommandPattern\carcontrolapp\bin\Debug\net8.0\CarControlApp.pdb
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.AssemblyInfoInputs.cache
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.AssemblyInfo.cs
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.csproj.CoreCompileInputs.cache
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.dll
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\refint\CarControlApp.dll
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.pdb
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\CarControlApp.genruntimeconfig.cache
+D:\ProgLab\CommandPattern\carcontrolapp\obj\Debug\net8.0\ref\CarControlApp.dll
