@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{FB9EC2E9-F253-4BBD-951E-4750377EB435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.Tests", "Singleton.Tests\Singleton.Tests.csproj", "{1284C312-2A35-4064-B085-4E7937249BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonApp", "SingletonApp\SingletonApp.csproj", "{53463ED1-7233-4552-804C-4ED334EE5F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9EC2E9-F253-4BBD-951E-4750377EB435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9EC2E9-F253-4BBD-951E-4750377EB435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9EC2E9-F253-4BBD-951E-4750377EB435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9EC2E9-F253-4BBD-951E-4750377EB435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1284C312-2A35-4064-B085-4E7937249BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1284C312-2A35-4064-B085-4E7937249BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1284C312-2A35-4064-B085-4E7937249BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1284C312-2A35-4064-B085-4E7937249BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53463ED1-7233-4552-804C-4ED334EE5F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53463ED1-7233-4552-804C-4ED334EE5F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53463ED1-7233-4552-804C-4ED334EE5F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53463ED1-7233-4552-804C-4ED334EE5F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
